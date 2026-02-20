@@ -1,0 +1,7 @@
+compiler
+*.tab.o
+*.o
+*.tab.c
+*.tab.h
+tokenizer.c
+*.out
