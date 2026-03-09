@@ -1,7 +1,7 @@
 %{
 #include <stdio.h> /* printf() */
 #include <string.h> /* strcpy() */
-#include "common.h" /* MAX_STR_LEN */
+#include "common.h"
 int yylex(void);
 void yyerror(const char *txt);
  

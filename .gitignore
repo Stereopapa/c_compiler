@@ -5,3 +5,5 @@ compiler
 *.tab.h
 tokenizer.c
 *.out
+/build
+/bin
